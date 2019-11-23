@@ -2,8 +2,8 @@
 
 Modified to support Pok3r like layout:
 
-* Move shift to upper-left
-* Change middle-left key to mod Layer 7
+* Move Esc to upper-left
+* Change middle-left key to Mod7
 * add ~|` key to Layer 7 upper-left
 * add media/volume keys to Layer 7
 * add IJKL arrow navigation to Layer 7
@@ -43,9 +43,9 @@ To install:
  ,-----------------------------------------------------------------------------------.
  |  ~   |  F1  |  F2  |  F3  |  F4  |  F5  |  F6  |  F7  |  F8  |  F9  | F10  |      |
  |------+------+------+------+------+------+------+------+------+------+------+------|
- |      |      |      |      |      |      |      |      |  Up  |      |      |      |
+ |      | Prev | Play | Next |      |      |      |      |  Up  |      |      |      |
  |------+------+------+------+------+-------------+------+------+------+------+------|
- | MO_7 |      |      |      |      |      |      | Left | Down |Right |      |      |
+ | MO_7 | Vol- | Mute | Vol+ |      |      |      | Left | Down |Right |      |      |
  |------+------+------+------+------+------|------+------+------+------+------+------|
  | Shift|      |      |      |      |      |      |      |      |      |      |      |
  |------+------+------+------+------+------+------+------+------+------+------+------|
